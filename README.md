@@ -1,6 +1,6 @@
 Namaste (नमस्ते), I’m Damodar Rajbhandari (दामोदर राजभण्डारी).
 
-To know more about me, I would like you to visit [damodarrajbhandari.com.np](https://damodarrajbhandari.com.np/).
+I would like to redirect my user profile to https://damodarrajbhandari.com.np/ for the dedicated profile.
 
 Best,\
 Damodar
